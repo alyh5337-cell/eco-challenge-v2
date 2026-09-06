@@ -1,0 +1,6 @@
+{
+  "appId": "com.ecochallenge.app",
+  "appName": "Eco Challenge",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
